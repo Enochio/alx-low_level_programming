@@ -11,8 +11,8 @@ int main(void)
 
 	int i = 0;
 	long j = i, k = 2;
-	
-	while (i < 50)	
+
+	while (i < 50)
 	{
 	if (i == 0)
 	printf("%ld", j);
