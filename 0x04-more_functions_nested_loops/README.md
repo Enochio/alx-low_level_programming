@@ -1,1 +1,1 @@
-A function that checks for uppercase character.
+ A function that multiplies two integers.
