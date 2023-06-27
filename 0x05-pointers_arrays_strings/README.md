@@ -1,1 +1,1 @@
-A function that swaps the values of two integers.
+A function that prints a string, followed by a new line, to stdout
