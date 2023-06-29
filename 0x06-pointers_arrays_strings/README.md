@@ -1,1 +1,1 @@
-A function that adds two numbers.
+A function that prints a buffer.
