@@ -1,1 +1,1 @@
-A  program prints a[2] = 98, followed by a new line.
+A function that adds two numbers.
