@@ -1,1 +1,1 @@
-A function that prints an integer.
+A  program prints a[2] = 98, followed by a new line.
