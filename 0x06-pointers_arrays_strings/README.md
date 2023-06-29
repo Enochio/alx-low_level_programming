@@ -1,1 +1,1 @@
-A function that capitalizes all words of a string.
+A function that encodes a string using rot13.
